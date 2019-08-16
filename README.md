@@ -1,2 +1,2 @@
-# trivia
+# Trivia
 Red Bot Trivia
