@@ -1,0 +1,427 @@
+Avenue Rd - to Eglinton Stn`5
+Avenue Rd - to Queen's Park`5A
+Avenue Rd - to Gerrard`5B
+Bay - to Queens Quay and Sherbourne`6
+Bay - to Dupont`6
+Bathurst - to Steeles`7
+Bathurst - to Bathurst Stn`7
+Broadview - to Coxwell`8
+Broadview - to Broadview Stn`8
+Bellamy - to Scarborough Ctr`9
+Bellamy - to Warden Stn`9
+Van Horne - to Victoria Park`10
+Van Horne - to Don Mills Stn`10
+Bayview - to Steeles via Sunnybrook`11A
+Bayview - to Sunnybrook`11C
+Bayview - to Davisville Stn via Sunnybrook`11A
+Bayview - to Davisville Stn`11
+Kingston Rd - to Victoria Park Stn via Brimley and Variety Village`12A
+Kingston Rd - to Victoria Park Stn via Brimley`12B
+Kingston Rd - to Victoria Park Stn`12C
+Kingston Rd - Express to Victoria Park Stn`12E
+Kingston Rd - to Kennedy Stn via Variety Village and Brimley
+Kingston Rd - to Kennedy Stn via Brimley`12B
+Kingston Rd - to St Clair and Barkdene Hills`12C
+Kingston Rd - to UofT Scarborough`12D
+Glencairn - to Caledonia`14
+Glencairn - to Davisville Stn`14
+Evans - to Sherway`15
+Evans - to Royal York Stn`15
+McCowan - to Scarborough Ctr`16
+McCowan - to Warden Stn`16
+Birchmount - to Highway 7`17A
+Birchmount - to Steeles via Wintermute`17B
+Birchmount - to Steeles and Warden`17C
+Birchmount - to Warden Stn`17
+Cliffside - to Main Street Stn`20
+Cliffside - to Kennedy Stn`20
+Brimley - to Scarborough Ctr`21A
+Brimley - to Kennedy Stn`21A
+Brimley - to Steeles`21B
+Brimley - to Scarborough Ctr`21B
+Brimley - to Steeles via Scarborough Ctr`21C
+Brimley - to Kennedy Stn via Scarborough Ctr`21C
+Coxwell - to Victoria Park via Kingston Rd`22A
+Coxwell - to Queen`22B
+Coxwell - to Coxwell Stn`22
+Dawes - to St Clair`23
+Dawes - to Main Street Stn`23
+Victoria Park - to Steeles`24A
+Victoria Park - to Don Mills Stn via Consumers Rd`24B
+Victoria Park - to Victoria Park Stn`24
+Victoria Park - to Victoria Park Stn via Consumers Rd`24B
+Don Mills - to Steeles via Don Mills Stn`25A
+Don Mills - to Don Mills Stn`25B
+Don Mills - to Steeles`25C
+Don Mills - to Pape Stn via Don Mills Stn`25A
+Don Mills - to Pape Stn`25B
+Don Mills - to Don Mills Stn`25C
+Dupont - to St George Stn`26
+Dupont - to Jane Stn`26
+Bayview South - to Brickworks`28
+Bayview South - to Davisville Stn`28
+Dufferin - to Exhibition (Dufferin Gate)`29A
+Dufferin - to Exhibition (Princes Gate)`29C
+Dufferin - to Dufferin Stn`29D
+Dufferin - to Wilson Stn`29A
+Lambton - to High Park Stn`30A
+Lambton - to High Park via High Park Stn`30B
+Lambton - to Kipling Stn`30
+Greenwood - to Greenwood Stn`31
+Greenwood - to Queen`31A
+Greenwood - to Eastern`31B
+Eglinton West - to Renforth Stn`32A
+Eglinton West - to Jane & Lawrence via Trethewey`32C
+Eglinton West - to Jane & Emmett`32D
+Eglinton West - to Eglinton Stn`32
+Eglinton West - to Eglinton West Stn`32D
+Forest Hill - to Eglinton (Roselawn)`33
+Forest Hill - to St Clair West Stn`33
+Eglinton East - to Eglinton Stn`34
+Eglinton East - to Eglinton Stn`34A
+Eglinton East - to Don Mills and Wynford`34B
+Eglinton East - to Eglinton Stn`34C
+Eglinton East - to Kennedy Stn`34A
+Eglinton East - to Flemingdon Park (Grenoble & Spanbridge)
+Jane - to Pionner Village Stn`35A
+Jane - to Pionner Village Stn via Hullmar`35B
+Jane - to Jane Stn`35
+Jane - to Jane Stn via Hullmar`35B
+Finch West - to Humberwood`36A
+Finch West - to Finch West Stn`36B
+Finch West - to Weston Rd and Milvan`36D
+Finch West - to Weston Rd and Milvan via Fenmar`36F
+Finch West - to Finch West Stn`36A
+Finch West - to Finch Stn`36
+Islington - Woodbine & Humberwood via Rexdale`37A
+Islington - to Steeles`37B
+Islington - to Islington Stn`37
+Highland Creek - to Rouge Hill GO Stn`38A
+Highland Creek - to UofT Scarborough`38B
+Highland Creek - to Scarborough Ctr`38
+Finch East - to Neilson`39A
+Finch East - to Old Finch and Morningview`39B
+Finch East - to Victoria Park and Gordon Baker`39C
+Finch East - to Finch Stn`39
+Junction - to Runnymede`40
+Junction - to Dundas West Stn`40
+Keele - to Pionner Village Stn`41
+Keele - to Keele Stn`41
+Cummer - to Middlefield and Dymanic Dr`42A
+Cummer - to Victoria Park`42C
+Cummer - to Finch Stn`42
+Kennedy - to Steeles`43A
+Kennedy - to Scarborough Ctr via Progress`43B
+Kennedy - to Kennedy Stn`43
+Kipling South - to Lake Shore`44
+Kipling South - to Kipling Stn`44
+Kipling - to Steeles`45A
+Kipling - to Carlingview via Belfield`45B
+Kipling - to Kipling Stn`45
+Martin Grove - to Steeles`46
+Martin Grove - Kipling Stn`46
+Lansdowne - to Queen`47A
+Lansdowne - to Queen via Bridgeland & Caledonia`47B
+Lansdowne - to Queen via Orfus & Caledonia`47C
+Lansdowne - to St Clair`47A
+Lansdowne - to Yorkdale Stn via Caledonia and Bridgeland`47B
+Lansdowne - to Yorkdale Stn via Caledonia and Orfus`47C
+Rathburn - to Mill Rd`48
+Rathburn - to Royal York Stn`48
+Bloor West - to Markland Wood`49
+Bloor West - to Kipling Stn`49
+Burnhamthorpe - to Mill Road`50
+Burnhamthorpe - to Islington Stn`50
+Leslie - to Steeles`51
+Leslie - to Eglinton Stn`51
+Lawrence West - to Pearson Airport via Dixon Rd`52A
+Lawrence West - to Westwood via Dixon Rd`52B
+Lawrence West - to McNaughton via Dixon Rd`52D
+Lawrence West - to Royal York`52F
+Lawrence West - to Martin Grove via The Westway`52G
+Lawrence West - to Lawrence Stn`52
+Lawrence West - to Lawrence West Stn`52G
+Steeles East - to Staines`53A
+Steeles East - to Markham Rd`53B
+Steeles East - to Finch Stn`53
+Lawrence East - to Starspray Blvd`54A
+Lawrence East - to Starspray Blvd via Don Mills`54A
+Lawrence East - to Orton Park`54B
+Lawrence East - to Orton Park via Don Mills`54B
+Lawrence East - to Lawrence East RT Stn`54D
+Lawrence East - to Lawrence East RT Stn via Don Mills`54D
+Lawrence East - to Eglinton Stn`54
+Lawrence East - to Eglinton and Leslie`54C
+Lawrence East - to Eglinton Stn`54D
+Warren Park - to Warren Park`55
+Warren Park - to Jane Stn`55
+Leaside - to Eglinton Stn`56A
+Leaside - to Brentcliffe`56B
+Leaside - to Donlands Stn`56
+Midland - to Steeles`57
+Midland - to Kennedy Stn`57
+Maple Leaf - to Weston Rd via Benton/Culford and Gary Dr`59A
+Maple Leaf - to Weston Rd via Benton/Culford and Church`59B
+Maple Leaf - to Weston Rd via Benton/Culford and Church`59C
+Maple Leaf - to Lawrence West Stn via Culford/Benton`59
+Steeles West - to Pionner Village Stn`60A
+Steeles West - to Martin Grove`60B
+Steeles West - to Highway 27`60D
+Avenue Rd North - to Highway 401`61
+Avenue Rd North - to Eglinton Stn`61
+Mortimer - to Broadview Stn`62
+Mortimer - to Main Street Stn`62
+Ossington - to Eglinton West Stn`63A
+Ossington - to St Clair`63B
+Ossington - to Liberty Village`63
+Main - to Queen`64
+Main - to Main Street Stn`64
+Parliament - to Esplanade
+Parliament - to Castle Frank Stn`65
+Prince Edward - to Humber Loop`66A
+Prince Edward - to Lake Shore`66B
+Prince Edward - to Old Mill Stn`66
+Pharmacy - to Ellesmere`67A
+Pharmacy - to Eglinton`67B
+Pharmacy - to Victoria Park Stn`67
+Warden - to Steeles`68A
+Warden - to Major MacKenzie Extra Fare Required`68B
+Warden - to Warden Stn`68
+Warden South - to Kingston Rd via Warden`69A
+Warden South - to Kingston Rd via Birchmount`69B
+Warden South - to Warden Stn via Warden`69A
+Warden South - to Warden Stn via Birchmount`69B
+O'Connor - to Eglinton`70A
+O'Connor - to Victoria Park`70B
+O'Connor - to Warden Stn`70C
+O'Connor - to Coxwell Stn`70
+Runnymede - to St Clair and Gunns`71A
+Runnymede - to Industry St`71B
+Runnymede - to Runnymede Stn`71
+Pape - to Eastern`72A
+Pape - to Union Stn via Commissioners and Queens Quay`72B
+Pape - to Comissioners`72C
+Pape - to Pape Stn`72
+Royal York - to Eglinton and La Rose`73B
+Royal York - to Claireport via Albion Rd`73C
+Royal York - to Knob Hill and Oak`73D
+Royal York - to Royal York Stn`73
+Mt Pleasant - to Doncliffe`74A
+Mt Pleasant - to St Clair Stn`74A
+Sherbourne - to South Dr`75
+Sherbourne - to South Dr and Summerhill`75A
+Sherbourne - to Queen's Quay`75
+Royal York South - to Lake Shore`76A
+Royal York South - to Queensway and Grand Ave`76B
+Royal York South - to Queensway`76C
+Swansea - to Queensway`77
+Swansea - to Runnymede Stn`77
+St Andrews - to Bayview`78
+St Andrews - to York Mills Stn`78
+Scarlett Rd - to Lawrence & Jane via Prichard/Foxwell`79A
+Scarlett Rd - to Lawrence & Jane via St Clair`79B
+Scarlett Rd - to Runnymede Stn via Foxwell/Prichard`79A
+Scarlett Rd - to Runnymede Stn via St Clair`79B
+Queensway - to Sherway`80
+Queensway - to Keele Stn via Parkside Dr`80
+Thorncliffe Park - to Thorncliffe`81
+Thorncliffe Park - to Pape Stn`81
+Rosedale - to Summerhill`82
+Rosedale - to Rosedale Stn`82
+Jones - to Commissioners`83
+Jones - to Donlands Stn`83
+Sheppard West - to Bradstock`84A
+Sheppard West - to Steeles`84C
+Sheppard West - to Pionner Village Stn`84D
+Sheppard West - to Sheppard-Yonge Stn`84
+Sheppard East - to Rouge Hill GO Stn`85A
+Sheppard East - to Toronto Zoo`85B
+Sheppard East - to Meadowvale`85
+Sheppard East - to Rouge Hill GO Stn via Toronto Zoo`85A
+Sheppard East - to Rouge Hill GO Stn via Don Mills Stn and Toronto Zoo`85H
+Sheppard East - to Don Mills Stn`85A
+Sheppard East - to Sheppard-Yonge Stn`85
+Scarborough - to Toronto Zoo`86A
+Scarborough - to Highland Creek`86B
+Scarborough - to Sheppard`86C
+Scarborough - to Beechgrove via Lawrence`86D
+Scarborough - to Kennedy Stn`86
+Cosburn - to Broadview Stn via East York Acres`87A
+Cosburn - to Broadview Stn`87C
+Cosburn - to Main Street Stn via East York Acres`87A
+Cosburn - to Main Street Stn`87C
+South Leaside - to Thorncliffe via Overlea`88A
+South Leaside - to Thorncliffe via Wicksteed`88B
+South Leaside - to St Clair Stn via Overlea`88A
+South Leaside - to St Clair Stn via Wicksteed`88B
+Weston - to Albion Rd`89
+Weston - to Keele Stn`89
+Vaughan - to Oakwood`90A
+Vaughan - to St Clair West Stn`90
+Woodbine - to York Mills`91C
+Woodbine - to York Mills via Railside`91D
+Woodbine - to Woodbine Stn`91
+Woodbine - to Woodbine Stn via Railside`91D
+Woodbine South - to Lake Shore`92
+Woodbine South - to Woodbine Stn`92
+Parkview Hills - to Parkview Hills`93
+Parkview Hills - to Woodbine Stn`93
+Wellesley - to Ossington Stn`94A
+Wellesley - to Wellesley Stn`94B
+Wellesley - to Queens Park via Wellesley Stn`94C
+Wellesley - to Castle Frank Stn`94
+York Mills - to Kingston Rd`95A
+York Mills - to UofT Scarborough`95B
+York Mills - to Ellesmere Stn`95C
+York Mills - to York Mills Stn`95
+Wilson - to Carrier Dr via Kipling and John Garland`96A
+Wilson - to Humberline/Albion`96B
+Wilson - to Carrier & Westmore via Kipling and John Garland`96D
+Wilson - to York Mills Stn`96
+Wilson - to York Mills Stn via John Garland and Kipling`96A
+Wilson - to York Mills Stn via Westhumber and Martin Grove`96B
+Yonge - to Davisville Stn via Yonge Blvd`97A
+Yonge - to Queens Quay via Yonge Blvd`97B
+Yonge - to Davisville Stn`97F
+Yonge - to York Mills Stn via Yonge Blvd`97A
+Yonge - to York Mills Stn via Yonge Blvd`97B
+Yonge - to Steeles`97F
+Willowdale-Senlac - to Peckham via Senlac`98A
+Willowdale-Senlac - to Peckham via Sheppard-Yonge Stn`98C
+Willowdale-Senlac - to Sheppard-Yonge Stn via Senlac`98A
+Willowdale-Senlac - to Steeles via Sheppard-Yonge Stn`98C
+Arrow Rd - to Jane`99
+Arrow Rd - Arrow Rd`99
+Flemingdon Park - to Don Mills & Wynford`100A
+Flemingdon Park - to Broadview Stn`100A
+Downsview Park - Downsview Park`101
+Downsview Park - to Sheppard West Stn`101
+Markham Rd - to Progress / Centennial College`102A
+Markham Rd - to Steeles`102B
+Markham Rd - to Steeles via Dymanic Dr`102C
+Markham Rd - to Major MacKenzie`102D
+Markham Rd - to Warden Stn`102
+Markham Rd - to Warden Stn via Dymanic Dr`102C
+Faywood - to Sheppard West Stn`104
+Faywood - to Wilson Stn`104
+Dufferin North - to Steeles`105A
+Dufferin North - to Sheppard West Stn`105A
+Dufferin North - to Wilson Stn`105D
+Sentinel - to Pionner Village Stn`106
+Sentinel - to Sheppard West Stn`106
+St Regis - to Pionner Village Stn`107
+St Regis - to Sheppard West Stn`107
+Driftwood - to Pionner Village Stn via Grandravine`108A
+Driftwood - to Pionner Village Stn via Arleta
+Driftwood - to Sheppard West Stn via Grandravine`108A
+Driftwood - to Sheppard West Stn via Arleta`108B
+Driftwood - to Wilson Stn`108C
+Ranee - to Neptune via Marlee and Flemingdon`109B
+Ranee - to Neptune via Marlee and Varna`109C
+Ranee - Eglinton West Stn via Flemingdon and Marlee`109B
+Ranee - Eglinton West Stn via Varna and Marlee`109C
+Islington South - to Long Branch via Horner/Browns Line`110A
+Islington South - to Long Branch via Horner/30th Street`110B
+Islington South - to Lake Shore`110C
+Islington South - to Islington Stn via Browns Line/Horner`110A
+Islington South - to Islington Stn via 30th Street/Horner`110B
+Islington South - to Islington Stn via Horner/30th Street`110C
+East Mall - to Eglinton`111
+East Mall - to Kipling Stn`111
+West Mall - to Renforth Stn`112B
+West Mall - to Disco Rd via Renforth Stn`112C
+West Mall - to Kipling Stn`112B
+West Mall - to Kipling Stn via Renforth Stn`112C
+West Mall - Express to Kipling Stn`112E
+Danforth - to Kennedy Stn`113
+Danforth - to Main Street Stn`113
+Silver Hills - to Leslie`115
+Silver Hills - to York Mills Stn`115
+Morningside - to Conlins Rd via Ellesmere`116A
+Morningside - to Finch and Morningside Heights`116C
+Morningside - to Kennedy Stn`116
+Alness-Chesswood - to Steeles`117
+Alness-Chesswood - to Sheppard West Stn`117
+Thistle Down - to Thistle Down`118
+Thistle Down - to Wilson Stn`118
+Torbarrie - to Torbarrie and Clayson`119
+Torbarrie - to Wilson Stn`119
+Calvington - to Sheppard & Jane via De Havilland`120
+Calvington - to Wilson Stn via De Havilland`120
+Fort-York Esplanade - to Distillery via Union Stn`121A
+Fort-York Esplanade - to Cherry Beach via Union Stn and Distillery`121C
+Fort-York Esplanade - to Cherry Beach via Union Stn`121D
+Fort-York Esplanade - to Exhibition (Princes Gate) and Union Stn`121A
+Fort-York Esplanade - to Exhibition via Distillery and Union Stn`121C
+Fort-York Esplanade - to Ontario Place via Distillery and Union Stn`121D
+Graydon Hall - to Roywood via Lesmill`122
+Graydon Hall - to York Mills Stn via Lesmill`122
+Sherway - to Long Branch via Shorncliffe and East Mall`123B
+Sherway - to Long Branch via Shorncliffe and North Queen`123C
+Sherway - to Sherway via Shorncliffe and East Mall`123D
+Sherway - to Sherway via West Mall`123F
+Sherway - to Kipling Stn via East Mall and Shorncliffe`123B
+Sherway - to Kipling Stn via North Queen and Shorncliffe`123C
+Sherway - to Kipling Stn via East Mall and Shorncliffe`123D
+Sherway - to Kipling Stn via West Mall`123F
+Sunnybrook - to Sunnybrook Hospital`124
+Sunnybrook - to Lawrence Stn`124
+Drewry - to Bathurst (Torresdale)`125
+Drewry - to Finch Stn`125
+Christie - to St Clair West Stn`126
+Christie - to Christie Stn`126
+Davenport - St Clair & Old Weston Rd`127
+Davenport - to Spadina Stn`127
+McCowan North - to Major MacKenzie`129A
+McCowan North - to Steeles`129B
+McCowan North - to Scarborough Ctr`129A
+McCowan North - to Scarborough Ctr`129
+Middlefield - to Steeles`130A
+Middlefield - to Steeles via Maybrook`130B
+Nugget - to Old Finch and Morningview`131
+Nugget - to Scarborough Ctr`131
+Milner - to McLevin & Hupfield`132
+Milner - to Scarborough Ctr`132
+Neilson - to Morningside Heights via Centenary`133
+Neilson - to Scarborough Ctr via Centenary`133
+Progress - to Finch via Tapscott`134A
+Progress - to McNicoll via Tapscott`134B
+Progress - to Centennial College`134C
+Progress - to Scarborough Ctr`134
+Gerrard - to Warden Stn`135
+Gerrard - to Main Street Stn`135
+Mt Pleasant Express - to Eglinton Extra Fare Required`141
+Downtown Express - to Downtown Extra Fare Required`141
+Avenue Rd Express - to Highway 401`142
+Downtown Express - to Downtown Extra Fare Required`142
+Beaches Express - to Neville Park`143
+Downtown Express - to Downtown Extra Fare Required`143
+Don Valley Express - to Wynford & York Mills`144
+Downtown Express - to Downtown Extra Fare Required`144
+Humber Bay Express - to Royal York`145A
+Humber Bay Express - to Kipling`145B
+Downtown Express - to Downtown Extra Fare Required`145
+Bathurst North - to Centre Street Extra Fare Required`160
+Bathurst North - to Wilson Stn`160
+Rogers Rd - to Jane`161
+Rogers Rd - to Ossington Stn`161
+Lawrence-Donway - to Don Mills`162
+Lawrence-Donway - to Lawrence Stn`162
+Weston Rd North - to Steeles`165
+Weston Rd North - to York Mills Stn`165
+Pharmacy North - to Steeles via Consumers Rd`167A
+Pharmacy North - to Steeles`167B
+Pharmacy North - to Don Mills Stn via Consumers Rd`167A
+Pharmacy North - to Don Mills Stn`167B
+Symington - Rogers Rd & Weston Rd`168
+Symington - to Dundas West Stn`168
+Huntingwood - to Don Mills Stn via Van Horne`169A
+Huntingwood - to Don Mills Stn`169B
+Huntingwood - to Scarborough Ctr via Van Horne`169A
+Huntingwood - to Scarborough Ctr`169B
+Mt Dennis - Mt Dennis`171
+Mt Dennis - to Jane`171
+Bluffer's Park - Bluffer's Park`175
+Bluffer's Park - to Kennedy Stn`175
+Mimico GO - Mimico GO
+Mimico GO - to Parklawn`176
