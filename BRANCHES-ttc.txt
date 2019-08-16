@@ -391,16 +391,16 @@ Progress - to Scarborough Ctr`134
 Gerrard - to Warden Stn`135
 Gerrard - to Main Street Stn`135
 Mt Pleasant Express - to Eglinton Extra Fare Required`141
-Downtown Express - to Downtown Extra Fare Required`141
+Downtown Express - to Downtown Extra Fare Required`141`142`143`144`145
 Avenue Rd Express - to Highway 401`142
-Downtown Express - to Downtown Extra Fare Required`142
+Downtown Express - to Downtown Extra Fare Required`141`142`143`144`145
 Beaches Express - to Neville Park`143
-Downtown Express - to Downtown Extra Fare Required`143
+Downtown Express - to Downtown Extra Fare Required`141`142`143`144`145
 Don Valley Express - to Wynford & York Mills`144
-Downtown Express - to Downtown Extra Fare Required`144
+Downtown Express - to Downtown Extra Fare Required`141`142`143`144`145
 Humber Bay Express - to Royal York`145A
 Humber Bay Express - to Kipling`145B
-Downtown Express - to Downtown Extra Fare Required`145
+Downtown Express - to Downtown Extra Fare Required`141`142`143`144`145
 Bathurst North - to Centre Street Extra Fare Required`160
 Bathurst North - to Wilson Stn`160
 Rogers Rd - to Jane`161
