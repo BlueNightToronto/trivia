@@ -512,3 +512,68 @@ Bathurst - to Exhibition`511
 Bathurst - to Bathurst Stn`511
 St Clair - to Keele`512
 St Clair - to St Clair Stn`512
+Airport Express - to Pearson Airport`900
+Airport Express - to Kipling Stn`900
+Markham Rd Express - to Sheppard via Centennial College`902
+Markham Rd Express - to Warden Stn via Centennial College`902
+Kennedy-Scarborough Centre Express - to Scarborough Ctr`903
+Kennedy-Scarborough Centre Express - to Kennedy Stn`903
+Eglinton East Express - to UofT Scarborough`905
+Eglinton East Express - to Kennedy Stn`905
+Progress Express - to Centennial College`913
+Progress Express - to Scarborough Ctr Stn`913
+Victoria Park Express - to Steeles`924
+Victoria Park Express - to Victoria Park Stn`924
+Don Mills Express - to Steeles`925
+Don Mills Express - to Pape Stn`925
+Highway 27 Express - to Humber College`927A
+Highway 27 Express - to Steeles via Humber College`927B
+Highway 27 Express - to Humber College via Attwell
+Highway 27 Express - to Steeles via Royalcrest`927D
+Highway 27 Express - to Steeles via Humber College`927D
+Highway 27 Express - to Kipling Stn via Humber College`927B
+Highway 27 Express - to Kipling Stn via Attwell`927C
+Highway 27 Express - to Kipling Stn via Humber College`927D
+Dufferin Express - to Wilson Stn`929
+Dufferin Express - to Exhibition (Dufferin Gate)`929
+Jane Express - to Pionner Village Stn`935
+Jane Express - to Jane Stn`935
+Islington Express - to Steeles`937
+Islington Express - to Islington Stn`937
+Finch Express - to Finch Stn`939A
+Finch Express - to Finch West Stn via Finch Stn`939B
+Finch Express - to Morningside Heights`939C
+Finch Express - to Scarborough Ctr Stn`939A
+Finch Express - to Scarborough Ctr Stn via Finch Stn`939B
+Finch Express - to Finch Stn`939C
+Keele Express - to Finch West Stn`941
+Keele Express - to Keele Stn`941
+Kipling South Express - to Lake Shore`944
+Kipling South Express - to Kipling Stn`944
+Kipling Express - to Steeles`945
+Kipling Express - to Kipling Stn`945
+Lawrence West Express - to Pearson Airport via Dixon Rd`952
+Lawrence West Express - to Lawrence Stn`952
+Steeles East Express - to Staines`953A
+Steeles East Express - to Markham Rd`953B
+Steeles East Express - to Finch Stn`953A
+Steeles East Express - to Finch Stn`953B
+Lawrence East Express - to Starspray Blvd`954
+Lawrence East Express - to Lawrence East RT Stn`954
+Steeles West Express - to Pionner Village Stn`960
+Steeles West Express - to Finch Stn`960
+Sheppard West Express - to Weston Rd`984A
+Sheppard West Express - to Sheppard West Stn`984B
+Sheppard West Express - to Sheppard-Yonge Stn`984A
+Sheppard West Express - to Sheppard-Yonge Stn`984B
+Don Mills Express - to Don Mills Stn`985
+Don Mills Express - to Scarborough Ctr Stn`985A
+Don Mills Express - to Meadowvale`985B
+Scarborough Express - to Sheppard`986
+Scarborough Express - to Kennedy Stn`986
+Weston Express - to Steeles`989
+Weston Express - to Keele Stn`989
+York Mills Express - to UofT Scarborough`995
+York Mills Express - to York Mills Stn`995
+Wilson Express - to Humber College`996
+Wilson Express - to Wilson Stn`996
