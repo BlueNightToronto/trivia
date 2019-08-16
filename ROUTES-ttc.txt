@@ -1,0 +1,215 @@
+Yonge-University Spadina`1
+Bloor-Danforth`2
+Scarborough`3
+Sheppard`4
+Avenue Rd`5
+Bay`6
+Bathurst`7
+Broadview`8
+Bellamy`9
+Van Horne`10
+Bayview`11
+Kingston Rd`12
+Glencairn`14
+Evans`15
+McCowan`16
+Birchmount`17
+Cliffside`20
+Brimley`21
+Coxwell`22
+Dawes`23
+Victoria Park`24
+Don Mills`25
+Dupont`26
+Bayview South`28
+Dufferin`29
+Lambton`30
+Greenwood`31
+Eglinton West`32
+Forest Hill`33
+Eglinton East`34
+Jane`35
+Finch West`36
+Islington`37
+Highland Creek`38
+Finch East`39
+Junction`40
+Keele`41
+Cummer`42
+Kennedy`43
+Kipling South`44
+Kipling`45
+Martin Grove`46
+Lansdowne`47
+Rathburn`48
+Bloor West`49
+Burnhamthorpe`50
+Leslie`51
+Lawrence West`52
+Steeles East`53
+Lawrence East`54
+Warren Park`55
+Leaside`56
+Midland`57
+Maple Leaf`59
+Steeles West`60
+Avenue Rd North`61
+Mortimer`62
+Ossington`63
+Main`64
+Parliament`65
+Prince Edward`66
+Pharmacy`67
+Warden`68
+Warden South`69
+O'Connor`70
+Runnymede`71
+Pape`72
+Royal York`73
+Mt Pleasant`74
+Sherbourne`75
+Royal York South`76
+Swansea`77
+St Andrews`78
+Scarlett Rd`79
+Queensway`80
+Thorncliffe Park`81
+Rosedale`82
+Jones`83
+Sheppard West`84
+Sheppard East`85
+Scarborough`86
+Cosburn`87
+South Leaside`88
+Weston`89
+Vaughan`90
+Woodbine`91
+Woodbine South`92
+Parkview Hills`93
+Wellesley`94
+York Mills`95
+Wilson`96
+Yonge`97
+Willowdale-Selnac`98
+Arrow Rd`99
+Flemingdon Park`100
+Downsview Park`101
+Markham Rd`102
+Faywood`104
+Dufferin North`105
+Sentinel`106
+St Regis`107
+Driftwood`108
+Ranee`109
+Islington South`110
+East Mall`111
+West Mall`112
+Danforth`113
+Silver Hills`115
+Morningside`116
+Alness-Chesswood`117
+Thistle Down`118
+Torbarrie`119
+Calvington`120
+Fort-York Esplanade`121
+Graydon Hall`122
+Sherway`123
+Sunnybrook`124
+Drewry`125
+Christie`126
+Davenport`127
+McCowan North`129
+Middlefield`130
+Nugget`131
+Nugget Express`131E
+Milner`132
+Neilson`133
+Progress`134
+Gerrard`135
+Downtown/Mt Pleasant`141
+Downtown/Avenue Rd`142
+Downtown/Beach`143
+Downtown/Don Valley`144
+Downtown/Humber Bay`145
+Bathurst North`160
+Rogers Rd`161
+Lawrence-Donway`162
+Weston Rd North`165
+Pharmacy North`167
+Symington`168
+Huntingwood`169
+Mt Dennis`171
+Bluffer's Park`175
+Mimico GO`176
+Scarborough Centre Rocket`190
+Highway 27 Rocket`191
+Airport Rocket`192
+Exhibition`193
+Aquatics Centre Rocket`194
+Jane Rocket`195
+York University Rocket`196
+University of Toronto Rocket`198
+Finch Rocket`199
+Bloor-Danforth`300
+Queen`301
+Kingston Rd-McCowan`302
+Bathurst`307
+Spadina`310
+St Clair-Junction`312
+Evans-Browns Line`315
+Yonge Blue Night`320
+Coxwell Blue Night`322
+Victoria Park Blue Night`324
+Don Mills Blue Night`325
+Dufferin`329
+Eglinton West`332
+Eglinton East`334
+Jane`335
+Finch West`336
+Islington`337
+Finch East`339
+Keele`341
+Kennedy`343
+Lawrence West`352
+Steeles East`353
+Lawrence East`354
+Ossington`363
+Parliament`365
+Sheppard West`384
+Sheppard East`385
+York Mills`395
+Wilson`396
+Queen`501
+Downtowner`502
+Kingston Rd`503
+King`504
+Dundas West`505
+Carlton`506
+Habourfront`509
+Spadina`510
+Bathurst`511
+St Clair`512
+Airport Express`900
+Markham Rd Express`902
+Eglinton East Express`905
+Progress Express`913
+Victoria Park Express`924
+Don Mills Express`925
+Highway 27 Express`927
+Dufferin Express`929
+Jane Express`935
+Islington Express`937
+Finch Express`939
+Keele Express`941
+Kipling South Express`944
+Kipling Express`945
+Lawrence West Express`952
+Steeles East Express`953
+Lawrence East Express`954
+Steeles West Express`960
+Sheppard West Express`984
+Sheppard East Express`985
+Scarborough Express`986
+Weston Express`989
+York Mills Express`995
+Wilson Express`996
