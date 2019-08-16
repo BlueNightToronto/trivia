@@ -566,9 +566,9 @@ Sheppard West Express - to Weston Rd`984A
 Sheppard West Express - to Sheppard West Stn`984B
 Sheppard West Express - to Sheppard-Yonge Stn`984A
 Sheppard West Express - to Sheppard-Yonge Stn`984B
-Don Mills Express - to Don Mills Stn`985
-Don Mills Express - to Scarborough Ctr Stn`985A
-Don Mills Express - to Meadowvale`985B
+Sheppard East Express - to Don Mills Stn`985
+Sheppard East Express - to Scarborough Ctr Stn`985A
+Sheppard East Express - to Meadowvale`985B
 Scarborough Express - to Sheppard`986
 Scarborough Express - to Kennedy Stn`986
 Weston Express - to Steeles`989
