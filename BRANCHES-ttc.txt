@@ -490,3 +490,25 @@ York Mills Blue Night - Meadowvale and Sheppard`395
 York Mills Blue Night - to York Mills Stn`395
 Wilson Blue Night - to Martin Grove and Steeles`396
 Wilson Blue Night - to York Mills Stn`396
+Queen - to Long Branch`501
+Queen - to Neville Park`501
+Downtowner - to Victoria Park`502
+Downtowner - to McCaul`502
+Kingston Rd - to York`503
+Kingston Rd - to Victoria Park`503
+King - to Distillery`504A
+King - to Dufferin Gate`504B
+King - to Dundas West Stn`504A
+King - to Broadview Stn`504B
+Dundas - to Broadview Stn via Dundas`505
+Dundas - to Dundas West Stn via Dundas`505
+Carlton - to High Park`506
+Carlton - to Main Street Stn`506
+Harbourfront - to Exhibition`509
+Harbourfront - to Union Stn`509
+Spadina - to Spadina Stn`510
+Spadina - to Union Stn`510
+Bathurst - to Exhibition`511
+Bathurst - to Bathurst Stn`511
+St Clair - to Keele`512
+St Clair - to St Clair Stn`512
