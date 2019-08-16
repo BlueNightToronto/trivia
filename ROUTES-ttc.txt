@@ -152,35 +152,35 @@ Jane Rocket`195
 York University Rocket`196
 University of Toronto Rocket`198
 Finch Rocket`199
-Bloor-Danforth`300
-Queen`301
-Kingston Rd-McCowan`302
-Bathurst`307
-Spadina`310
-St Clair-Junction`312
-Evans-Browns Line`315
-Yonge`320
-Coxwell`322
-Victoria Park`324
+Bloor-Danforth Blue Night`300
+Queen Blue Night`301
+Kingston Rd-McCowan Blue Night`302
+Bathurst Blue Night`307
+Spadina Blue Night`310
+St Clair-Junction Blue Night`312
+Evans-Browns Line Blue Night`315
+Yonge Blue Night`320
+Coxwell Blue Night`322
+Victoria Park Blue Night`324
 Don Mills Blue Night`325
-Dufferin`329
-Eglinton West`332
-Eglinton East`334
-Jane`335
-Finch West`336
-Islington`337
-Finch East`339
-Keele`341
-Kennedy`343
-Lawrence West`352
-Steeles East`353
-Lawrence East`354
-Ossington`363
-Parliament`365
-Sheppard West`384
-Sheppard East`385
-York Mills`395
-Wilson`396
+Dufferin Blue Night`329
+Eglinton West Blue Night`332
+Eglinton East Blue Night`334
+Jane Blue Night`335
+Finch West Blue Night`336
+Islington Blue Night`337
+Finch East Blue Night`339
+Keele Blue Night`341
+Kennedy Blue Night`343
+Lawrence West Blue Night`352
+Steeles East Blue Night`353
+Lawrence East Blue Night`354
+Ossington Blue Night`363
+Parliament Blue Night`365
+Sheppard West Blue Night`384
+Sheppard East Blue Night`385
+York Mills Blue Night`395
+Wilson Blue Night`396
 Queen`501
 Downtowner`502
 Kingston Rd`503
