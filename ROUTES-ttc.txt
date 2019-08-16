@@ -146,7 +146,7 @@ Wilson Rocket`186
 Scarborough Centre Rocket`190
 Highway 27 Rocket`191
 Airport Rocket`192
-Exhibition`193
+Exhibition Rocket`193
 Aquatics Centre Rocket`194
 Jane Rocket`195
 York University Rocket`196
