@@ -187,7 +187,7 @@ Kingston Rd`503
 King`504
 Dundas West`505
 Carlton`506
-Habourfront`509
+Harbourfront`509
 Spadina`510
 Bathurst`511
 St Clair`512
