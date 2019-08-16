@@ -159,9 +159,9 @@ Bathurst`307
 Spadina`310
 St Clair-Junction`312
 Evans-Browns Line`315
-Yonge Blue Night`320
-Coxwell Blue Night`322
-Victoria Park Blue Night`324
+Yonge`320
+Coxwell`322
+Victoria Park`324
 Don Mills Blue Night`325
 Dufferin`329
 Eglinton West`332
