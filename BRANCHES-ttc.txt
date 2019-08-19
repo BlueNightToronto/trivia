@@ -218,9 +218,9 @@ Swansea - to Queensway`77
 Swansea - to Runnymede Stn`77
 St Andrews - to Bayview`78
 St Andrews - to York Mills Stn`78
-Scarlett Rd - to Lawrence & Jane via Prichard/Foxwell`79A
+Scarlett Rd - to Lawrence & Jane via Pritchard/Foxwell`79A
 Scarlett Rd - to Lawrence & Jane via St Clair`79B
-Scarlett Rd - to Runnymede Stn via Foxwell/Prichard`79A
+Scarlett Rd - to Runnymede Stn via Foxwell/Pritchard`79A
 Scarlett Rd - to Runnymede Stn via St Clair`79B
 Queensway - to Sherway`80
 Queensway - to Keele Stn via Parkside Dr`80
