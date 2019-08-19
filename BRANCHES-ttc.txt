@@ -562,10 +562,9 @@ Lawrence East Express - to Starspray Blvd`954
 Lawrence East Express - to Lawrence East RT Stn`954
 Steeles West Express - to Pionner Village Stn`960
 Steeles West Express - to Finch Stn`960
+Sheppard West Express - to Sheppard-Yonge Stn`984
 Sheppard West Express - to Weston Rd`984A
 Sheppard West Express - to Sheppard West Stn`984B
-Sheppard West Express - to Sheppard-Yonge Stn`984A
-Sheppard West Express - to Sheppard-Yonge Stn`984B
 Sheppard East Express - to Don Mills Stn`985
 Sheppard East Express - to Scarborough Ctr Stn`985A
 Sheppard East Express - to Meadowvale`985B
