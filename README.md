@@ -1,2 +1,2 @@
 # trivia
-Red Bot Trivia
+Red Bot Trivia add on for Servers
