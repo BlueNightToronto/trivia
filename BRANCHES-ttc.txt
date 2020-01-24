@@ -87,8 +87,8 @@ Jane - to Pionner Village Stn`35A
 Jane - to Pionner Village Stn via Hullmar`35B
 Jane - to Jane Stn`35
 Jane - to Jane Stn via Hullmar`35B
-Finch West - to Humberwood`36A
-Finch West - to Finch West Stn`36B
+Finch West - to Finch West Stn`36A
+Finch West - to Humberwood`36B
 Finch West - to Weston Rd and Milvan`36D
 Finch West - to Weston Rd and Milvan via Fenmar`36F
 Finch West - to Finch West Stn`36A
