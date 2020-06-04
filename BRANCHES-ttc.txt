@@ -14,7 +14,7 @@ Van Horne - to Don Mills Stn`10
 Bayview - to Steeles via Sunnybrook`11A
 Bayview - to Sunnybrook`11C
 Bayview - to Davisville Stn via Sunnybrook`11A
-Bayview - to Davisville Stn`11C
+Bayview - to Davisville Stn`11
 Kingston Rd - to Victoria Park Stn via Brimley and Variety Village`12A
 Kingston Rd - to Victoria Park Stn via Brimley`12B
 Kingston Rd - to Victoria Park Stn`12C
@@ -87,8 +87,8 @@ Jane - to Pionner Village Stn`35A
 Jane - to Pionner Village Stn via Hullmar`35B
 Jane - to Jane Stn`35
 Jane - to Jane Stn via Hullmar`35B
-Finch West - to Finch West Stn`36A
-Finch West - to Humberwood`36B
+Finch West - to Humberwood`36A
+Finch West - to Finch West Stn`36B
 Finch West - to Weston Rd and Milvan`36D
 Finch West - to Weston Rd and Milvan via Fenmar`36F
 Finch West - to Finch West Stn`36A
@@ -218,9 +218,9 @@ Swansea - to Queensway`77
 Swansea - to Runnymede Stn`77
 St Andrews - to Bayview`78
 St Andrews - to York Mills Stn`78
-Scarlett Rd - to Lawrence & Jane via Pritchard/Foxwell`79A
+Scarlett Rd - to Lawrence & Jane via Prichard/Foxwell`79A
 Scarlett Rd - to Lawrence & Jane via St Clair`79B
-Scarlett Rd - to Runnymede Stn via Foxwell/Pritchard`79A
+Scarlett Rd - to Runnymede Stn via Foxwell/Prichard`79A
 Scarlett Rd - to Runnymede Stn via St Clair`79B
 Queensway - to Sherway`80
 Queensway - to Keele Stn via Parkside Dr`80
@@ -230,13 +230,13 @@ Rosedale - to Summerhill`82
 Rosedale - to Rosedale Stn`82
 Jones - to Commissioners`83
 Jones - to Donlands Stn`83
-Sheppard West - to Bradstock`84A
+Sheppard West - to Weston Rd`84A
 Sheppard West - to Steeles`84C
 Sheppard West - to Pionner Village Stn`84D
 Sheppard West - to Sheppard-Yonge Stn`84
 Sheppard East - to Rouge Hill GO Stn`85A
 Sheppard East - to Toronto Zoo`85B
-Sheppard East - to Meadowvale`85
+Sheppard East - to Meadowvale`85C
 Sheppard East - to Rouge Hill GO Stn via Toronto Zoo`85A
 Sheppard East - to Rouge Hill GO Stn via Don Mills Stn and Toronto Zoo`85H
 Sheppard East - to Don Mills Stn`85A
@@ -401,6 +401,8 @@ Don Valley/Downtown Express - to Downtown Extra Fare Required`144
 Humber Bay Express - to Royal York`145A
 Humber Bay Express - to Kipling`145B
 Humber Bay/Downtown Express - to Downtown Extra Fare Required`145
+Scarborough Centre Rocket - to Don Mills Stn`190
+Scarborough Centre Rocket - to Scarborough Ctr`190
 Bathurst North - to Centre Street Extra Fare Required`160
 Bathurst North - to Wilson Stn`160
 Rogers Rd - to Jane`161
@@ -528,10 +530,11 @@ Don Mills Express - to Steeles`925
 Don Mills Express - to Pape Stn`925
 Highway 27 Express - to Humber College`927A
 Highway 27 Express - to Steeles via Humber College`927B
-Highway 27 Express - to Humber College via Attwell
+Highway 27 Express - to Humber College via Attwell`927C
 Highway 27 Express - to Steeles via Royalcrest`927D
 Highway 27 Express - to Steeles via Humber College`927D
 Highway 27 Express - to Kipling Stn via Humber College`927B
+Highway 27 Express - to Kipling Stn via Attwell and Humber College`927be
 Highway 27 Express - to Kipling Stn via Attwell`927C
 Highway 27 Express - to Kipling Stn via Humber College`927D
 Dufferin Express - to Wilson Stn`929
@@ -562,12 +565,13 @@ Lawrence East Express - to Starspray Blvd`954
 Lawrence East Express - to Lawrence East RT Stn`954
 Steeles West Express - to Pionner Village Stn`960
 Steeles West Express - to Finch Stn`960
-Sheppard West Express - to Sheppard-Yonge Stn`984
 Sheppard West Express - to Weston Rd`984A
 Sheppard West Express - to Sheppard West Stn`984B
-Sheppard East Express - to Don Mills Stn`985
-Sheppard East Express - to Scarborough Ctr Stn`985A
-Sheppard East Express - to Meadowvale`985B
+Sheppard West Express - to Sheppard-Yonge Stn`984A
+Sheppard West Express - to Sheppard-Yonge Stn`984B
+Don Mills Express - to Don Mills Stn`985
+Don Mills Express - to Scarborough Ctr Stn`985A
+Don Mills Express - to Meadowvale`985B
 Scarborough Express - to Sheppard`986
 Scarborough Express - to Kennedy Stn`986
 Weston Express - to Steeles`989
