@@ -79,7 +79,6 @@ Eglinton West - to Eglinton West Stn`32D
 Forest Hill - to Eglinton (Roselawn)`33
 Forest Hill - to St Clair West Stn`33
 Eglinton East - to Eglinton Stn`34
-Eglinton East - to Eglinton Stn`34A
 Eglinton East - to Don Mills and Wynford`34B
 Eglinton East - to Eglinton Stn`34C
 Eglinton East - to Kennedy Stn`34A
