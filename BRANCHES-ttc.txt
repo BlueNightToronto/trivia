@@ -60,10 +60,11 @@ Dupont - to St George Stn`26
 Dupont - to Jane Stn`26
 Bayview South - to Brickworks`28
 Bayview South - to Davisville Stn`28
+Dufferin - to Wilson Stn`29A
+Dufferin - to Wilson Stn`29C
+Dufferin - to Dufferin Stn`29D
 Dufferin - to Exhibition (Dufferin Gate)`29A
 Dufferin - to Exhibition (Princes Gate)`29C
-Dufferin - to Dufferin Stn`29D
-Dufferin - to Wilson Stn`29A
 Lambton - to High Park Stn`30A
 Lambton - to High Park via High Park Stn`30B
 Lambton - to Kipling Stn`30
