@@ -82,7 +82,8 @@ Eglinton East - to Eglinton Stn`34
 Eglinton East - to Don Mills and Wynford`34B
 Eglinton East - to Eglinton Stn`34C
 Eglinton East - to Kennedy Stn`34A
-Eglinton East - to Flemingdon Park (Grenoble & Spanbridge)
+Eglinton East - to Kennedy Stn`34B
+Eglinton East - to Flemingdon Park (Grenoble & Spanbridge)`34C
 Jane - to Pionner Village Stn`35A
 Jane - to Pionner Village Stn via Hullmar`35B
 Jane - to Jane Stn`35
