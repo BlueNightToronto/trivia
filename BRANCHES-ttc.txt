@@ -137,7 +137,7 @@ Leslie - to Steeles`51
 Leslie - to Eglinton Stn`51
 Lawrence West - to Pearson Airport via Dixon Rd`52A
 Lawrence West - to Westwood via Dixon Rd`52B
-Lawrence West - to McNaughton via Dixon Rd`52D
+Lawrence West - to McNaughton Rd`52D
 Lawrence West - to Royal York`52F
 Lawrence West - to Martin Grove via The Westway`52G
 Lawrence West - to Lawrence Stn`52
