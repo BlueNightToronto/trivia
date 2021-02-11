@@ -197,7 +197,7 @@ O'Connor - to Eglinton`70A
 O'Connor - to Victoria Park`70B
 O'Connor - to Warden Stn`70C
 O'Connor - to Coxwell Stn`70
-Runnymede - to St Clair and Gunns`71A
+Runnymede - to St Clair & Gunns`71A
 Runnymede - to Industry St`71B
 Runnymede - to Runnymede Stn`71
 Pape - to Eastern`72A
