@@ -210,12 +210,13 @@ Royal York - to Knob Hill and Oak`73D
 Royal York - to Royal York Stn`73
 Mt Pleasant - to Doncliffe`74A
 Mt Pleasant - to St Clair Stn`74A
-Sherbourne - to South Dr`75
-Sherbourne - to South Dr and Summerhill`75A
+Sherbourne - to South Drive`75
+Sherbourne - to South Drive and Summerhill`75A
 Sherbourne - to Queen's Quay`75
 Royal York South - to Lake Shore`76A
 Royal York South - to Queensway and Grand Ave`76B
 Royal York South - to Queensway`76C
+Royal York South - to Royal York Stn`76
 Swansea - to Queensway`77
 Swansea - to Runnymede Stn`77
 St Andrews - to Bayview`78
