@@ -234,8 +234,8 @@ Rosedale - to Rosedale Stn`82
 Jones - to Commissioners`83
 Jones - to Donlands Stn`83
 Sheppard West - to Weston Rd`84A
-Sheppard West - to Steeles`84C
-Sheppard West - to Pionner Village Stn`84D
+Sheppard West - to Steeles via Arrow Rd`84C
+Sheppard West - to Pionner Village Stn via Oakdale`84D
 Sheppard West - to Sheppard-Yonge Stn`84
 Sheppard East - to Rouge Hill GO Stn`85A
 Sheppard East - to Toronto Zoo`85B
