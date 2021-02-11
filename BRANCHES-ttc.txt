@@ -168,6 +168,7 @@ Maple Leaf - to Lawrence West Stn via Culford/Benton`59
 Steeles West - to Pionner Village Stn`60A
 Steeles West - to Martin Grove`60B
 Steeles West - to Highway 27`60D
+Steeles West - to Finch Stn`60
 Avenue Rd North - to Highway 401`61
 Avenue Rd North - to Eglinton Stn`61
 Mortimer - to Broadview Stn`62
