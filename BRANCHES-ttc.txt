@@ -241,7 +241,6 @@ Sheppard East - to Rouge Hill GO Stn`85A
 Sheppard East - to Toronto Zoo`85B
 Sheppard East - to Meadowvale`85C
 Sheppard East - to Rouge Hill GO Stn via Toronto Zoo`85A
-Sheppard East - to Rouge Hill GO Stn via Don Mills Stn and Toronto Zoo`85H
 Sheppard East - to Don Mills Stn`85A
 Sheppard East - to Sheppard-Yonge Stn`85
 Scarborough - to Toronto Zoo`86A
@@ -347,7 +346,7 @@ Alness-Chesswood - to Steeles`117
 Alness-Chesswood - to Sheppard West Stn`117
 Thistle Down - to Thistle Down`118
 Thistle Down - to Wilson Stn`118
-Torbarrie - to Torbarrie and Clayson`119
+Torbarrie - Torbarrie and Clayson`119
 Torbarrie - to Wilson Stn`119
 Calvington - to Sheppard & Jane via De Havilland`120
 Calvington - to Wilson Stn via De Havilland`120
